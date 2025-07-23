@@ -10,7 +10,7 @@ Aprendendo o máximo que posso com todas as oportunidades ao meu redor e absorve
 ## Sobre mim
 
  - 🖥 Técnico em Análise e Desenvolvimento de Sistemas - SENAI <br>
- - 📚 Estudando focado em Back-End em Java, JavaScript e .NET <br>
+ - 📚 Estudando Back-End em Java, JavaScript e .NET <br>
  - 💭 Sempre com a mente aberta para analisar oportunidadades ao meu redor e aprender novas tecnologias.
 _________
 
