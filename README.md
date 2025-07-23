@@ -1,12 +1,20 @@
-<h2 align="left">Olá, me chamo Pedro Santos! 👑</h2>
+# 👑 Olá, me chamo Pedro!
 
 ###
 
-<h3 align="left">Sobre mim:</h3>
+<p align="left">Estudante e desenvolvedor em formação acadêmica, sempre me desafiando cada vez mais em cada linha de código! ⚡<br>
+Focado em estudar e desenvolver projetos em Back-End nas linguagens de Java, JavaScript, Node.js e .NET. 🎯<br>
+Aprendendo o máximo que posso com todas as oportunidades ao meu redor e absorvendo todo networking útil possível! 🧠<br>
+</p>
 
-###
+## Sobre mim
 
-<p align="left">Beginner Developer e Estudante de Análise e Desenvolvimento de Sistemas, sempre me desafiando cada vez mais com cada linha de código! ⚡<br>Focado em estudar e desenvolver projetos de Back-End em Java, JavaScript e .NET. 🎯<br>Sempre aprendendo o máximo que posso com todas as oportunidades ao meu redor e absorvendo todo networking útil possível! 🧠</p>
+ - 🖥 Técnico em Análise e Desenvolvimento de Sistemas - SENAI <br>
+ - 📚 Estudando focado em Back-End em Java, JavaScript e .NET <br>
+ - 💭 Sempre com a mente aberta para analisar oportunidadades ao meu redor e aprender novas tecnologias.
+_________
+
+<p align="left"></p>
 
 ###
 
@@ -79,13 +87,17 @@
 </div>
 
 ###
+<br>
 
+## GitHub Stats ⭐
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pdsantosx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdsantosx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20utilizadas" height="150" alt="languages graph"  />
 </div>
 
 ###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdsantosx/pdsantosx/output/pacman-contribution-graph-dark.svg">
