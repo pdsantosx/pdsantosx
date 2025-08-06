@@ -1,25 +1,25 @@
-# 👑 Olá, me chamo Pedro!
+# 👑 Hello, i’m Pedro!
 
 ###
 
-<p align="left">Estudante e desenvolvedor em formação acadêmica, sempre me desafiando cada vez mais em cada linha de código! ⚡<br>
-Focado em estudar e desenvolver projetos em Back-End nas linguagens de Java, JavaScript, Node.js e .NET. 🎯<br>
-Aprendendo o máximo que posso com todas as oportunidades ao meu redor e absorvendo todo networking útil possível! 🧠<br>
+<p align="left">Aspiring developer and tech student, constantly pushing myself to grow with every line of code! ⚡<br>
+Focused on studying and building Back-End projects using Java, JavaScript, Node.js, and .NET. 🎯<br>
+Eager to learn from every opportunity and expand my network with meaningful connections! 🧠<br>
 </p>
 
-## Sobre mim
+## About me: 🕵️
 
- - 🖥 Técnico em Análise e Desenvolvimento de Sistemas - SENAI. <br>
- - 📚 Estudando Back-End em Java, JavaScript e .NET. <br>
- - 🧠 Experiência básica em HTML, CSS e JavaScript. <br>
- - 💭 Sempre com a mente aberta para analisar oportunidadades ao meu redor e aprender novas tecnologias. <br>
+ - 🖥 Associate Degree in Systems Analysis and Development - SENAI. <br>
+ - 📚 Deepening my expertise in Back-End development (Java, JavaScript, .NET). <br>
+ - 🧠 Foundational experience in HTML, CSS, and JavaScript. <br>
+ - 💭 Open-minded and proactive, always analyzing opportunities around me and exploring new technologies. <br>
 _________
 
 <p align="left"></p>
 
 ###
 
-<h3 align="left">Linguagens e tecnologias 🖥</h3>
+<h3 align="left">Languages and Tecnologies 🖥</h3>
 
 ###
 
@@ -39,7 +39,7 @@ _________
 
 ###
 
-<h3 align="left">Frameworks e bibliotecas 🚀</h3>
+<h3 align="left">Frameworks and libraries 🚀</h3>
 
 ###
 
@@ -49,7 +49,7 @@ _________
 
 ###
 
-<h3 align="left">Plataformas e Ferramentas 🛠</h3>
+<h3 align="left">Platforms and Tools 🛠</h3>
 
 ###
 
@@ -67,7 +67,7 @@ _________
 
 ###
 
-<h3 align="left">Redes Sociais: 🗨</h3>
+<h3 align="left">Social Networks: 🗨</h3>
 
 ###
 
