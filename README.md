@@ -1,3 +1,4 @@
+<img width="748" height="342" alt="Captura de tela 2023-08-16 090259" src="https://github.com/user-attachments/assets/780681db-6ea6-43f5-bd74-dc19567b05a2" />
 # 👑 Hello, i’m Pedro!
 
 ###
@@ -78,7 +79,7 @@ _________
   <a href="Perfil no Discord: santosxis" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="www.instagram.com/pdsantosx" target="_blank">
+  <a href="https://www.instagram.com/pdsantosx/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="pd.santos.profissional@gmail.com" target="_blank">
