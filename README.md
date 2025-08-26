@@ -1,4 +1,3 @@
-<img width="748" height="342" alt="Captura de tela 2023-08-16 090259" src="https://github.com/user-attachments/assets/780681db-6ea6-43f5-bd74-dc19567b05a2" />
 # 👑 Hello, i’m Pedro!
 
 ###
