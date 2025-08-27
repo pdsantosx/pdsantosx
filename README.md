@@ -11,7 +11,7 @@ Eager to learn from every opportunity and expand my network with meaningful conn
 
  - 🖥 Associate Degree in Systems Analysis and Development - SENAI. <br>
  - 📚 Deepening my expertise in Back-End development (Java, JavaScript, .NET). <br>
- - 🧠 Foundational experience in HTML, CSS, and JavaScript. <br>
+ - 🧠 Foundational experience in HTML, CSS, Python and JavaScript. <br>
  - 💭 Open-minded and proactive, always analyzing opportunities around me and exploring new technologies. <br>
 _________
 
