@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring developer and tech student, constantly pushing myself to grow with every line of code! ⚡<br>
+<p align="left">Aspiring developer full stack and tech student, constantly pushing myself to grow with every line of code! ⚡<br>
 Focused on studying and building Back-End projects using Java, JavaScript, Node.js, and .NET. 🎯<br>
 Eager to learn from every opportunity and expand my network with meaningful connections! 🧠<br>
 </p>
