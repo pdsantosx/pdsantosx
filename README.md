@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">Aspirante a desenvolvedor full stack e estudante de tecnologia, constantemente me desafiando a crescer a cada linha de código! ⚡<br>
+<p align="left">Aspirante a desenvolvedor Full Stack e estudante de Cibersegurança , constantemente me desafiando a crescer a cada linha de código! ⚡<br>
 Focado em estudar e construir projetos de Cibersegurança. 🎯<br>
 Animado para aprender com cada oportunidade e expandir minha rede com conexões significativas! 🧠<br>
 </p>
 
 ## About me: 🕵️
-
+ - 🎓 Graduando Ciências da Computação - Estácio <br>
  - 🖥 Técnico em Análise e Desenvolvimento de Sistemas - SENAI <br>
  - 📚 Aprofundando minha expertise em Cibersegurança (Blue Team, Red Team, Governança). <br>
  - 🧠 Experiência básica em Desenvolvimento Full Stack. <br>
