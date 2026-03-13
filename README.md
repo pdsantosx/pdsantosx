@@ -1,4 +1,4 @@
-# 👑 Hello, i’m Pedro!
+# 👑 Olá, me chamo Pedro!
 
 ###
 
