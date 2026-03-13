@@ -2,24 +2,24 @@
 
 ###
 
-<p align="left">Aspiring developer full stack and tech student, constantly pushing myself to grow with every line of code! ⚡<br>
-Focused on studying and building Back-End projects using Java, JavaScript, Node.js, and .NET. 🎯<br>
-Eager to learn from every opportunity and expand my network with meaningful connections! 🧠<br>
+<p align="left">Aspirante a desenvolvedor full stack e estudante de tecnologia, constantemente me desafiando a crescer a cada linha de código! ⚡<br>
+Focado em estudar e construir projetos de Cibersegurança. 🎯<br>
+Animado para aprender com cada oportunidade e expandir minha rede com conexões significativas! 🧠<br>
 </p>
 
 ## About me: 🕵️
 
- - 🖥 Associate Degree in Systems Analysis and Development - SENAI. <br>
- - 📚 Deepening my expertise in Back-End development (Java, JavaScript, .NET). <br>
- - 🧠 Foundational experience in HTML, CSS, Python and JavaScript. <br>
- - 💭 Open-minded and proactive, always analyzing opportunities around me and exploring new technologies. <br>
+ - 🖥 Técnico em Análise e Desenvolvimento de Sistemas - SENAI <br>
+ - 📚 Aprofundando minha expertise em Cibersegurança (Blue Team, Red Team, Governança). <br>
+ - 🧠 Experiência básica em Desenvolvimento Full Stack. <br>
+ - 💭 Mente aberta e proativo, sempre analisando oportunidades ao meu redor e explorando novas tecnologias. <br>
 _________
 
 <p align="left"></p>
 
 ###
 
-<h3 align="left">Languages and Tecnologies 🖥</h3>
+<h3 align="left">Linguagens e Tecnologias 🖥</h3>
 
 ###
 
@@ -41,7 +41,7 @@ _________
 
 ###
 
-<h3 align="left">Frameworks and libraries 🚀</h3>
+<h3 align="left">Frameworks e Bibliotecas 🚀</h3>
 
 ###
 
@@ -51,7 +51,7 @@ _________
 
 ###
 
-<h3 align="left">Platforms and Tools 🛠</h3>
+<h3 align="left">Plataformas e Ferramentas 🛠</h3>
 
 ###
 
@@ -71,7 +71,7 @@ _________
 
 ###
 
-<h3 align="left">Social Networks: 🗨</h3>
+<h3 align="left"> Midias Sociais: 🗨</h3>
 
 ###
 
